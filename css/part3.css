@@ -1,0 +1,28 @@
+main {
+    width: 750px;
+    text-align: center;
+}
+#subject {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+img {
+    border: 5px solid transparent;
+    margin: 5px;
+}
+img:hover {
+    border-color: lightgrey;
+}
+img.selected {
+    border-color: lightblue;
+}
+img.selected.valid {
+    border-color: green;
+}
+img.selected.invalid {
+    border-color: red;
+}
+img.forgot {
+    border-color: orange;
+}

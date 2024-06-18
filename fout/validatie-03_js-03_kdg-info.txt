@@ -1,0 +1,6 @@
+=== JS_Variabelen ===
+*** Global declared variables ***
+script/data.js
+	captchaImages       		1:6(depth:0)
+script/part3_js_ANSWER.js
+	captchaSubject      		1:4(depth:0)
